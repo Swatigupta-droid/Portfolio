@@ -1,13 +1,15 @@
 # Portfolio
 
-#Overview:
+# Overview:
+
 This repo contains the code of a hard coded portfolio. It has been built using HTML5,CSS and JS(JQUERY).
 
-#Contents:
-*HTML file
-*CSS file
-*JS FILE
-*IMAGES
+# Contents:
+
+* HTML file
+* CSS file
+* JS FILE
+* IMAGES
 
 
 
